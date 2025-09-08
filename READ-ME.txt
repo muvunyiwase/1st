@@ -1,4 +1,8 @@
+<<<<<<< HEAD
  =>  Template Name    : Poseify - Modeling Agency Website Template
+=======
+  =>  Template Name    : Poseify - Modeling Agency Website Template
+>>>>>>> 0fd332f6b1c4da3bd917cc18cf7646a41385312b
 
   =>  Template Link    : https://htmlcodex.com/modeling-agency-website-template
 
